@@ -3,8 +3,8 @@
 - 👋 Hola, sóc @aaronFortuno!
 - 👀 Estic interessant en aprendre Ruby, Kotlin i Java, bàsicament.
 - 🌱 Ara mateix estic aprenent sobre tots aquests llenguatges a través dels meus estudis de DAM (Desenvolupament d'Aplicacions Multiplataforma) a l'IOC (Catalunya).
-- 💞️ Estic interessant en col·laborar en qualsevol projecte que puede ajudar-me/nos a aprendre i millorar les meves/nostres habilitats. 
-- 📫 Em podeu trobar bàsicament aquí
+- 💞️ Estic interessant en col·laborar a qualsevol projecte que pugui ajudar-me/nos a aprendre i millorar les meves/nostres habilitats. 
+- 📫 Em podeu trobar bàsicament aquí :)
 
 === ENG
 
